@@ -5,7 +5,6 @@ Devops
 I’m a DevOps enthusiast always eager to learn and grow. I love exploring automation, scalable systems, and high availability while constantly improving my skills.
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [contact@leox.me](mailto:contact@leox.me)
-* 🚀  I'm currently working on [myapp](http://data.leox.me)
 * 🤝  I'm open to collaborating on interesting project
 
 ### Skills
