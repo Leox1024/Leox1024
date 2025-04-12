@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Leox
 =========================================================================================================================================
 
-I’m a developer who loves to build things that work, scale, and stay online. I code every day, explore automation, and keep learning — not to be perfect, but to be better.
+Am I a software Engineer? Fuckin.. impostor sindrome
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [contact@leox.me](mailto:contact@leox.me)
 
