@@ -2,10 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 Devops
 ------
-I’m a DevOps enthusiast always eager to learn and grow. I love exploring automation, scalable systems, and high availability while constantly improving my skills.
+I’m a DevOps enthusiast who loves to build things that work, scale, and stay online. I code every day, explore automation, and keep learning — not to be perfect, but to be better.
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [contact@leox.me](mailto:contact@leox.me)
-* 🤝  I'm open to collaborating on interesting project
 
 ### Skills
 
