@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 Devops
 ------
-I’m a DevOps enthusiast who loves to build things that work, scale, and stay online. I code every day, explore automation, and keep learning — not to be perfect, but to be better.
+I’m a developer who loves to build things that work, scale, and stay online. I code every day, explore automation, and keep learning — not to be perfect, but to be better.
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [contact@leox.me](mailto:contact@leox.me)
 
