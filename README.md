@@ -1,7 +1,7 @@
 ## Hi, I'm Leonardo, also known as leox, an Italian computer student based in Milan.
 
-* All of my projects are available at **[https://leox.me](https://leox.me)**
-* How to reach me **leonardo@leox.me**
+* all of my projects are available at **[https://leox.me](https://leox.me)**
+* how to reach me **leonardo@leox.me**
 
 ### Skills
 
